@@ -1,0 +1,7 @@
+Steps to run:
+1. open terminal from folder in linux
+2. run command "make all" without quotes
+3. run ./server.o <port_no>
+4. open new terminal from same folder
+5. run client.o <server_ip> <server_port>
+6. run command "make clean" without quotes to remove compiled files
